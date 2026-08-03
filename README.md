@@ -4,8 +4,8 @@
 
 # Hi, I'm Srushti 👋
 
+</div>
+
 ### Computer Science (Data Science) Student
 
-#### Turning data into practical applications.
-
-</div>
+Turning data into practical applications.
